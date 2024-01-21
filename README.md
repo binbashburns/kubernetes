@@ -8,10 +8,7 @@ This repository contains various code samples and notes related to Kubernetes. I
 
 ## Contents
 
-The repository is organized as follows:
-
-- `code_samples/`: This directory contains various code samples related to Kubernetes.
-- `notes/`: This directory contains various notes and learning materials related to Kubernetes.
+The repository is organized in the order of chapters of the Kubernetes in a month of lunches.
 
 ## Usage
 
